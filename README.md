@@ -15,11 +15,6 @@ Kubernetes and Docker
 Cloud computing (AWS, GCP)
 Security best practices
 
-👯 I’m looking to collaborate on:
-Open source DevOps projects
-Building and deploying scalable and reliable applications
-Automating infrastructure and security
-
 🤔 I’m looking for help with:
 Learning new DevOps tools and technologies
 Optimizing our CI/CD pipelines
