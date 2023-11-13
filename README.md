@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **sedrikKH/sedrikKH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 DevOps Engineer
@@ -46,4 +45,4 @@ Proven ability to deliver high-quality software on time and within budget
 Strong understanding of DevOps principles and practices
 Experience with a variety of DevOps tools and technologies, including CI/CD pipelines, infrastructure automation, cloud computing, and security
 I am passionate about DevOps and I am always looking for new challenges and opportunities to learn and grow. I am also a strong advocate for open source software and I am always looking for ways to contribute to the community.
--->
+
